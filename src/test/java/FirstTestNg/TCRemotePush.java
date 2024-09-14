@@ -5,7 +5,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.Test;
 
 
-public class TC2 
+public class TCRemotePush 
 {
 	//1. Launch ChromeBrowser
 	 //Classname var = new classname();
