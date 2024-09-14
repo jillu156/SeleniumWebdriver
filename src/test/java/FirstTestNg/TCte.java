@@ -2,7 +2,7 @@ package FirstTestNg;
 
 import org.testng.annotations.Test;
 //JUST CHECK PRIORITY
-public class TC1 
+public class TCte 
 {
 
 	//Open Application
