@@ -1,4 +1,4 @@
-package FirstTestNg;
+package Locators;
 
 import org.testng.annotations.Test;
 
